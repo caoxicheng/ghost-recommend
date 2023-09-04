@@ -1,0 +1,4 @@
+<label class="container">
+  <textarea [(ngModel)]="content" (ngModelChange)="handleInput()" (keydown.tab)="handleTabKeydown($event)"></textarea>
+  <div class="ghost-content">{{ ghostContent }}</div>
+</label>

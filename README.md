@@ -2,6 +2,11 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
 
+## 写在前面
+此项目为瞎逛掘金时发现的demo，实现一个输入框的幽灵建议功能
+
+> [vue实现一个textarea幽灵建议](https://juejin.cn/post/7273674732448120895)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
